@@ -1,5 +1,12 @@
 # testschema
 
+validate and display errors about your JSON value.
+
+thanks [jsonschema specifications](https://www.npmjs.com/package/jsonschema).
+
+![](screen.jpg)
+
+
 ## Project setup
 ```
 npm install
