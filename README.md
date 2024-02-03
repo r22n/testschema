@@ -6,6 +6,11 @@ thanks [jsonschema specifications](https://www.npmjs.com/package/jsonschema).
 
 ![](screen.jpg)
 
+## docker
+```
+docker pull h3fa9qdsabv/testschema
+docker run -p 8888:8888 -d h3fa9qdsabv/testschema:1.0
+```
 
 ## Project setup
 ```
